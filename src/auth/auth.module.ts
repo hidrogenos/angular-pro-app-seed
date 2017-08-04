@@ -4,7 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 // third-paty modules
 
-import { AngularFireModule, FirebaseAppConfig } from 'Angularfire2'
+import { AngularFireModule, FirebaseAppConfig } from 'angularfire2'
 import { AngularFireAuthModule } from 'angularfire2/auth';
 import { AngularFireDatabaseModule } from 'angularfire2/database';
 
